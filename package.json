@@ -37,7 +37,7 @@
     "@types/chai": "^4.2.11",
     "@types/mocha": "^7.0.2",
     "@types/node": "^13.9.1",
-    "chai": "^4.2.0",
+    "chai": "^4.3.4",
     "mocha": "^7.1.1",
     "nodemon": "^2.0.2",
     "prettier": "^2.0.5",
