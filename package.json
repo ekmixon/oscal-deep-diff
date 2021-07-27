@@ -34,7 +34,7 @@
     "commander": "^5.1.0"
   },
   "devDependencies": {
-    "@types/chai": "^4.2.11",
+    "@types/chai": "^4.2.19",
     "@types/mocha": "^7.0.2",
     "@types/node": "^13.9.1",
     "chai": "^4.2.0",
